@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #fce7a3;
+
+    
+
+}
+.left-section li{
+    list-style-type: none;  
+
+}
+
+.logo-ppgt {
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.middle-section li{
+    list-style-type: none;
+    float: left;
+    padding-right: 20px;
+
+}
+
+.right-section li {
+    list-style-type: none;  
+    width: 300px;
+}
+
+
+
+
+
