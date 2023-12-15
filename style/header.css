@@ -5,6 +5,12 @@
     align-items: center;
 
     background-color: #fce7a3;
+    box-shadow: 0px 6px 20px #888888;
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
 
     
 
@@ -46,6 +52,9 @@
     width: 24px;
     padding-left: 20px;
 }
+
+
+
 
 
 
